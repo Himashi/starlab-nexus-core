@@ -1,6 +1,6 @@
 # Star Lab Systems: Strategic Nexus (Core Pipeline)
 
-Welcome to the core event-driven routing framework for **Star Lab Systems**. This repository contains the open-source serverless architecture patterns and multi-protocol egress adapters designed to decouple upstream cloud enterprise engines from heterogeneous downstream business services.
+Welcome to the core event-driven routing framework for **Star Lab Systems**. This repository contains the open-source serverless architecture patterns and multi-protocol egress adapters designed to decouple upstream cloud enterprise engines from heterogeneous downstream business services
 
 ## Architecture Ecosystem Layout
 
